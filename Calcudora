@@ -1,0 +1,16 @@
+>>> #txt.Calculadora/
+>>> #cd Calculadora/
+>>> #python 3 calc.py
+>>> operação = input ('Qual operação (+,-,*,/) você quer fazer?')
+Qual operação (+,-,*,/) você quer fazer?
+>>> num1 = input ('Digite o primeiro número: ')
+Digite o primeiro número: 10
+>>> num2 = ('Digite o segundo número: ')
+>>> num2 = input ('Digite o segundo número: ')
+Digite o segundo número: 5
+>>> 15
+15
+>>>
+if operação == '+':
+total= num1 + num2
+print(total)
