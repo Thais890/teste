@@ -1,1 +1,28 @@
+>>> #txt.Variável/
+>>> #cd.Variável/
+>>> #Python 3 Variável.py
+>>> #Variável de texto
+>>> texto = 'Atividades de Python'
+>>> print(texto)
+Atividades de Python
+
+>>> varNum1 = '200'
+>>> print(varNum1)
+200
+>>> print(type(varNum1))
+<class 'str'>
+
+>>> #Variáveis tipo númericos
+>>> varA = 30  
+>>> varB = 1,4054 
+>>> varC = False 
+>>> varD = 2+4j
+>>> varE = 'Vermelho' 
+>>> print (varA,varB,varC,varD,varE)
+30 (1, 4054) False (2+4j) Vermelho
+>>>>>> print(type(varA),type(varB),type(varC),type(varD),type(varE))
+<class 'int'> <class 'tuple'> <class 'bool'> <class 'complex'> <class 'str'>
+
+
+
 
